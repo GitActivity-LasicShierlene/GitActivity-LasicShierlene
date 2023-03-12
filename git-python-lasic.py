@@ -14,3 +14,6 @@ year = input ("3rd year")
 print(year)
 section = input ("Section B")
 print(section)
+
+hobbies = input("dancing,reading,cleaning,watching tiktok")
+print(hobbies)
